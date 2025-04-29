@@ -21,3 +21,18 @@ Udemyで動画見てるときはわかった気になってただけだという
 
 **リンク** 
 [現役シリコンバレーエンジニアが教えるPython 3 入門 + 応用 +アメリカのシリコンバレー流コードスタイル](https://www.udemy.com/course/python-beginner/)
+
+
+### Day 3: 2025年4月29日
+
+**今日の進捗**  
+今日はグループ支払い・割り勘アプリの土台になるドメインモデルを作った。  
+`User`、`Payment`、`Asset`、`Debt`とかのデータモデルを定義して、リストを管理するコレクションクラスを実装。  
+さらに、Pydanticで型をしっかり守りながら、ユーザー間の貸し借りを整理するロジックも実装した。
+
+**思ったこと**  
+コード読んでてわからないところがあればChatGPTに質問して一つ一つ理解した。
+これでAPIやフロントエンドと繋げる準備が整った。
+
+**リンク**  
+[walicaaa-backend GitHubコミット](https://github.com/takuto-san/walicaaa-backend/commit/89feb00b888489350b104c6af4e7a2ecbd903a4d)

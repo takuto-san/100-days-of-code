@@ -21,3 +21,18 @@ I realized that while watching Udemy videos, I only *felt* like I understood the
 
 **Link**  
 [Python 3 Introduction + Application + Silicon Valley Coding Style by a Current Silicon Valley Engineer](https://www.udemy.com/course/python-beginner/)
+
+
+### Day 3: April 29, 2025
+
+**Today's Progress**  
+Today, I built the core domain models for a group payment and bill-splitting system.  
+Specifically, I defined data models such as `User`, `Payment`, `Asset`, and `Debt`, and created collection classes to manage lists of these models.  
+I also implemented logic to summarize and resolve user debts and assets safely using Pydantic.
+
+**Reflections**  
+Designing the domain layer from scratch made me realize how important it is to think deeply about data structures and responsibility separation.  
+It also helped me better understand how to build a solid foundation for future API and frontend integrations.
+
+**Link**  
+[walicaaa-backend GitHub Commit](https://github.com/takuto-san/walicaaa-backend/commit/89feb00b888489350b104c6af4e7a2ecbd903a4d)
