@@ -11,6 +11,7 @@ I learned the basics, such as how using `pytest` can make test code simpler and 
 **Link**  
 [Python 3 Introduction + Application + Silicon Valley Coding Style Taught by an Active Silicon Valley Engineer](https://www.udemy.com/course/python-beginner/)
 
+
 ### Day 2: April 28, 2025
 
 **Today's Progress**  
@@ -36,3 +37,16 @@ It also helped me better understand how to build a solid foundation for future A
 
 **Link**  
 [walicaaa-backend GitHub Commit](https://github.com/takuto-san/walicaaa-backend/commit/89feb00b888489350b104c6af4e7a2ecbd903a4d)
+
+
+### Day 4: April 30, 2025
+
+**Progress**  
+Edited the schema for payments and settlements, and added logic to calculate balances and generate settlements.  
+Now the system can automatically determine who should pay how much to whom based on all users' payment history.
+
+**Thoughts**  
+I struggled with Pydantic—it was hard to follow how types were enforced in data passing throughout the code.
+
+**Link**  
+[walicaaa-backend GitHub commits](https://github.com/takuto-san/walicaaa-backend/commits/main/?since=2025-05-01&until=2025-05-01)

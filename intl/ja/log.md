@@ -36,3 +36,16 @@ Udemyで動画見てるときはわかった気になってただけだという
 
 **リンク**  
 [walicaaa-backend GitHubコミット](https://github.com/takuto-san/walicaaa-backend/commit/89feb00b888489350b104c6af4e7a2ecbd903a4d)
+
+
+### Day 4: 2025年4月30日
+
+**今日の進捗**  
+支払い・精算に関するスキーマを編集し、残高計算と精算ロジックを追加した。
+全員の支払い履歴から、送金すべき金額と相手を自動算出できるようにした。
+
+**思ったこと**  
+pydanticがわからなくてデータの受け渡しとかに必ず型がついて回ってわかりかねるところが多かった。
+
+**リンク**  
+[walicaaa-backend GitHubコミット](https://github.com/takuto-san/walicaaa-backend/commits/main/?since=2025-05-01&until=2025-05-01)
