@@ -49,3 +49,14 @@ pydanticがわからなくてデータの受け渡しとかに必ず型がつい
 
 **リンク**  
 [walicaaa-backend GitHubコミット](https://github.com/takuto-san/walicaaa-backend/commits/main/?since=2025-05-01&until=2025-05-01)
+
+
+### Day 5: 2025年5月1日
+
+**今日の進捗**  
+松尾研究所「深層学習 Deep Learning基礎講座 2025」の第3回課題をやった。
+MLPについて学習し、画像認識をするモデルを作成した。
+
+**思ったこと**  
+課題とは別に自分でAIモデルをPythonスクリプトで実装したら、一層理解が深まった。
+kaggleで公開されているサッカー選手の顔画像データセットを使用して、メッシやロナウドなど8人の選手の顔画像を学習させた。

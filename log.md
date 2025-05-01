@@ -50,3 +50,14 @@ I struggled with Pydantic—it was hard to follow how types were enforced in dat
 
 **Link**  
 [walicaaa-backend GitHub commits](https://github.com/takuto-san/walicaaa-backend/commits/main/?since=2025-05-01&until=2025-05-01)
+
+
+### Day 5: May 1, 2025
+
+**Today's Progress**  
+Worked on Assignment 3 of the "Deep Learning Fundamentals 2025" course by Matsuo Lab.  
+Studied MLPs (Multi-Layer Perceptrons) and built a model for image recognition.
+
+**Reflections**  
+By implementing an AI model from scratch in a Python script in addition to the assignment, I was able to deepen my understanding.  
+Used a publicly available Kaggle dataset of soccer player face images to train a model on the faces of eight players, including Messi and Ronaldo.
