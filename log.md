@@ -61,3 +61,13 @@ Studied MLPs (Multi-Layer Perceptrons) and built a model for image recognition.
 **Reflections**  
 By implementing an AI model from scratch in a Python script in addition to the assignment, I was able to deepen my understanding.  
 Used a publicly available Kaggle dataset of soccer player face images to train a model on the faces of eight players, including Messi and Ronaldo.
+
+
+### Day 6: May 2, 2025
+
+**Today's Progress**  
+I started using Cisco Packet Tracer to study networking.
+Since it was my first day, I worked through the tutorial sections.
+
+**Reflections**  
+Compared to studying theoretical concepts like the OSI reference model, I found it more engaging and less tedious to actually build networks on the screen.Hands-on learning made it easier and more enjoyable.
