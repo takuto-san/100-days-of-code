@@ -71,3 +71,14 @@ Since it was my first day, I worked through the tutorial sections.
 
 **Reflections**  
 Compared to studying theoretical concepts like the OSI reference model, I found it more engaging and less tedious to actually build networks on the screen.Hands-on learning made it easier and more enjoyable.
+
+
+### Day 7: May 3, 2025
+
+**Today's Progress**  
+・Solved two problems from LeetCode’s Top Interview 150.
+・Since my computer science tasks were starting to pile up, I organized and prioritized them.
+
+**Reflections**  
+・I want to continue studying computer science every day to strengthen my foundational skills, while sharing my progress using #100DaysOfCode.
+・To start, I plan to work through each task based on how much time I actually have each day.
