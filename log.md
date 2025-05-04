@@ -82,3 +82,15 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 **Reflections**  
 ・I want to continue studying computer science every day to strengthen my foundational skills, while sharing my progress using #100DaysOfCode.
 ・To start, I plan to work through each task based on how much time I actually have each day.
+
+
+### Day 8: 2025年5月4日
+
+**Today's Progress**  
+・Solved two problems from LeetCode's Top Interview 150.
+・Watched the first lecture video of "Create Your Own OS from Scratch".
+・Installed XQuartz → Set up DevContainer(Docer) → Create a FAT image(disk.img) → Saved it as BOOTX64.EFI → Booted EFI using QEMU
+
+**Reflections**  
+・Although I just folloed the commands, using a Docker image made the environment setup smooth and convenient.
+・I tried to reproduce the process of how a computer boots and starts working, but honestly, I didn't really understand what was happning.
