@@ -84,7 +84,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・To start, I plan to work through each task based on how much time I actually have each day.
 
 
-### Day 8: 2025年5月4日
+### Day 8: May 4, 2025
 
 **Today's Progress**  
 ・Solved two problems from LeetCode's Top Interview 150.
@@ -94,3 +94,15 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 **Reflections**  
 ・Although I just folloed the commands, using a Docker image made the environment setup smooth and convenient.
 ・I tried to reproduce the process of how a computer boots and starts working, but honestly, I didn't really understand what was happning.
+
+
+### Day 9: May 5, 2025
+
+**今日の進捗**  
+・Solved two problems from LeetCode's Top Interview 150.
+・Watched the second lecture video of "Create Your Own OS from Scratch".
+・Built UEFI app using EDK II.
+
+**思ったこと**  
+・It took time because of a "Directory not found" error
+・I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
