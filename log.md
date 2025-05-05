@@ -98,11 +98,11 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 
 ### Day 9: May 5, 2025
 
-**今日の進捗**  
+**Today's Progress**  
 ・Solved two problems from LeetCode's Top Interview 150.
 ・Watched the second lecture video of "Create Your Own OS from Scratch".
 ・Built UEFI app using EDK II.
 
-**思ったこと**  
+**Reflections**  
 ・It took time because of a "Directory not found" error
 ・I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
