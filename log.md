@@ -106,3 +106,16 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 **Reflections**  
 ・It took time because of a "Directory not found" error
 ・I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
+
+
+### Day 10: May 6, 2025
+
+**Today's Progress**  
+・Solved two problems from LeetCode's Top Interview 150
+・Watched Lecture 3 of "Create Your Own OS from Scratch"
+・Created a kernel file
+・Reviewed content from Lecture 1 and 2 by re-reading the textbook and doing additional research
+
+**Reflections**  
+・I now understand how firmware processes work up to the point where a binary file is executed and "Hello, world!" is displayed on XQuarz
+・I understood the difference between displaying "Hello, world" by executing a manually written binary and by runnig a program written in C
