@@ -123,11 +123,11 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 
 ### Day 11: 2025年5月7日
 
-**今日の進捗**  
+**Today's Progress**  
 ・Completed the Lecture 4 assignment for the “Deep Learning Basics” course at Matsuo Lab, University of Tokyo.
 ・Independently built a soccer-player face-recognition model to reinforce my understanding of the lecture content.
 
-**学んだこと**  
+**What I learned?**  
 ・Parameter initialization techniques (e.g. Xavier, He)
 ・Normalization methods (e.g. BatchNorm, input standardization)
 ・Optimization algorithms (e.g. SGD, Adam)
@@ -135,13 +135,13 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 
 ### Day 12: 2025年5月8日
 
-**今日の進捗**  
+**Today's Progress**  
 ・Solved three problems from LeetCode’s Top Interview 150:
     ・Jump Game (Greedy)
     ・Jump Game II (Greedy / BFS-style)
     ・H-Index (Sort + Greedy)
 
-**学んだこと**  
+**What I learned?**  
 ・How to apply Greedy algorithms to interval-reach problems
 ・A BFS-style layer-by-layer approach for minimizing jumps
 ・The definition and computation of the H-Index metric
