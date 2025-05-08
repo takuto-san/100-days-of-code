@@ -121,7 +121,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・I understood the difference between displaying "Hello, world" by executing a manually written binary and by runnig a program written in C
 
 
-### Day 11: 2025年5月7日
+### Day 11: May 7, 2025
 
 **Today's Progress**  
 ・Completed the Lecture 4 assignment for the “Deep Learning Basics” course at Matsuo Lab, University of Tokyo.
@@ -133,7 +133,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Optimization algorithms (e.g. SGD, Adam)
 ・Regularization strategies (e.g. L1/L2 weight decay, Dropout)
 
-### Day 12: 2025年5月8日
+### Day 12: May 8, 2025
 
 **Today's Progress**  
 ・Solved three problems from LeetCode’s Top Interview 150:
