@@ -156,8 +156,3 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 **What I learned?**  
 ・How to append and remove elements from a list in O(1) time
 ・How to automate the build process useing the make command (including compilation and linking)
-・O(1)でリストに要素を追加、削除する方法を学んだ
-・makeコマンドでビルド（コンパイル、リンク）を自動化する方法を学んだ
-
-Learned how to automate the build process using the make command (including compilation and linking).
-
