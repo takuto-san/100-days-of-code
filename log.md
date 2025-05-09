@@ -145,3 +145,19 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・How to apply Greedy algorithms to interval-reach problems
 ・A BFS-style layer-by-layer approach for minimizing jumps
 ・The definition and computation of the H-Index metric
+
+
+### Day 13: May 9, 2025
+
+**Today's Progress**  
+・Solved a problem from LeetCode's Top Interview 
+・Progressed Lecture 3 of "Create Your Own OS from Scratch"
+
+**What I learned?**  
+・How to append and remove elements from a list in O(1) time
+・How to automate the build process useing the make command (including compilation and linking)
+・O(1)でリストに要素を追加、削除する方法を学んだ
+・makeコマンドでビルド（コンパイル、リンク）を自動化する方法を学んだ
+
+Learned how to automate the build process using the make command (including compilation and linking).
+
