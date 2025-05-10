@@ -161,7 +161,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ### Day 14: May 10
 
 **Today's Progress**  
-・Solved a problem from LeetCode's Top Interview
+・Solved two problems from LeetCode's Top Interview
 
 **What I Learned?**  
 ・How to use cumulative product techniques and greedy strategies for solving array-based problems efficuently
