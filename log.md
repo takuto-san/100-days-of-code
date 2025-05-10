@@ -17,7 +17,7 @@ I learned the basics, such as how using `pytest` can make test code simpler and 
 **Today's Progress**  
 Based on what I studied yesterday, I wrote code by myself to review and deepen my understanding. Specifically, I created a simple class to implement payment functionality, and wrote test cases using both `unittest` and `pytest`. I also successfully output logs to a file using `logging` and `logger`.
 
-**What I learned?**  
+**What I Learned?**  
 I realized that while watching Udemy videos, I only *felt* like I understood the concepts. By actually writing code myself while asking ChatGPT questions, I was able to gain a much deeper understanding of how to use the concepts in practice.
 
 **Link**  
@@ -31,7 +31,7 @@ Today, I built the core domain models for a group payment and bill-splitting sys
 Specifically, I defined data models such as `User`, `Payment`, `Asset`, and `Debt`, and created collection classes to manage lists of these models.  
 I also implemented logic to summarize and resolve user debts and assets safely using Pydantic.
 
-**What I learned?**  
+**What I Learned?**  
 Designing the domain layer from scratch made me realize how important it is to think deeply about data structures and responsibility separation.  
 It also helped me better understand how to build a solid foundation for future API and frontend integrations.
 
@@ -58,7 +58,7 @@ I struggled with Pydantic—it was hard to follow how types were enforced in dat
 Worked on Assignment 3 of the "Deep Learning Fundamentals 2025" course by Matsuo Lab.  
 Studied MLPs (Multi-Layer Perceptrons) and built a model for image recognition.
 
-**What I learned?**  
+**What I Learned?**  
 By implementing an AI model from scratch in a Python script in addition to the assignment, I was able to deepen my understanding.  
 Used a publicly available Kaggle dataset of soccer player face images to train a model on the faces of eight players, including Messi and Ronaldo.
 
@@ -69,7 +69,7 @@ Used a publicly available Kaggle dataset of soccer player face images to train a
 I started using Cisco Packet Tracer to study networking.
 Since it was my first day, I worked through the tutorial sections.
 
-**What I learned?**  
+**What I Learned?**  
 Compared to studying theoretical concepts like the OSI reference model, I found it more engaging and less tedious to actually build networks on the screen.Hands-on learning made it easier and more enjoyable.
 
 
@@ -79,7 +79,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Solved two problems from LeetCode’s Top Interview 150.
 ・Since my computer science tasks were starting to pile up, I organized and prioritized them.
 
-**What I learned?**  
+**What I Learned?**  
 ・I want to continue studying computer science every day to strengthen my foundational skills, while sharing my progress using #100DaysOfCode.
 ・To start, I plan to work through each task based on how much time I actually have each day.
 
@@ -91,7 +91,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Watched the first lecture video of "Create Your Own OS from Scratch".
 ・Installed XQuartz → Set up DevContainer(Docer) → Create a FAT image(disk.img) → Saved it as BOOTX64.EFI → Booted EFI using QEMU
 
-**What I learned?**  
+**What I Learned?**  
 ・Although I just folloed the commands, using a Docker image made the environment setup smooth and convenient.
 ・I tried to reproduce the process of how a computer boots and starts working, but honestly, I didn't really understand what was happning.
 
@@ -103,7 +103,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Watched the second lecture video of "Create Your Own OS from Scratch".
 ・Built UEFI app using EDK II.
 
-**What I learned?**  
+**What I Learned?**  
 ・It took time because of a "Directory not found" error
 ・I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
 
@@ -116,7 +116,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Created a kernel file
 ・Reviewed content from Lecture 1 and 2 by re-reading the textbook and doing additional research
 
-**What I learned?**  
+**What I Learned?**  
 ・I now understand how firmware processes work up to the point where a binary file is executed and "Hello, world!" is displayed on XQuarz
 ・I understood the difference between displaying "Hello, world" by executing a manually written binary and by runnig a program written in C
 
@@ -127,7 +127,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Completed the Lecture 4 assignment for the “Deep Learning Basics” course at Matsuo Lab, University of Tokyo.
 ・Independently built a soccer-player face-recognition model to reinforce my understanding of the lecture content.
 
-**What I learned?**  
+**What I Learned?**  
 ・Parameter initialization techniques (e.g. Xavier, He)
 ・Normalization methods (e.g. BatchNorm, input standardization)
 ・Optimization algorithms (e.g. SGD, Adam)
@@ -141,7 +141,7 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
     ・Jump Game II (Greedy / BFS-style)
     ・H-Index (Sort + Greedy)
 
-**What I learned?**  
+**What I Learned?**  
 ・How to apply Greedy algorithms to interval-reach problems
 ・A BFS-style layer-by-layer approach for minimizing jumps
 ・The definition and computation of the H-Index metric
@@ -153,6 +153,15 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ・Solved a problem from LeetCode's Top Interview 
 ・Progressed Lecture 3 of "Create Your Own OS from Scratch"
 
-**What I learned?**  
+**What I Learned?**  
 ・How to append and remove elements from a list in O(1) time
 ・How to automate the build process useing the make command (including compilation and linking)
+
+
+### Day 14: May 10
+
+**Today's Progress**  
+・Solved a problem from LeetCode's Top Interview
+
+**What I Learned?**  
+・How to use cumulative product techniques and greedy strategies for solving array-based problems efficuently
