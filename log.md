@@ -150,8 +150,8 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ### Day 13: May 9, 2025
 
 **Today's Progress**  
-・Solved a problem from LeetCode's Top Interview 
-・Progressed Lecture 3 of "Create Your Own OS from Scratch"
+・Solved a problem from LeetCode's Top Interview 150
+・Progressed Lecture 4 of "Create Your Own OS from Scratch"
 
 **What I Learned?**  
 ・How to append and remove elements from a list in O(1) time
@@ -161,7 +161,18 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ### Day 14: May 10
 
 **Today's Progress**  
-・Solved two problems from LeetCode's Top Interview
+・Solved two problems from LeetCode's Top Interview 150
 
 **What I Learned?**  
 ・How to use cumulative product techniques and greedy strategies for solving array-based problems efficuently
+
+
+### Day 15: May 11
+
+**Today's Progress**  
+・Solved two problems from LeetCode's Top Interview 150
+・Progressed Lecture 5 of "Create Your Own OS from Scratch"
+
+**What I Learned?**  
+・Learned how to calculate amount of trapped water between blocks using the two-ponter and greedy strategies
+・Understood how to update left and right maximum heights to efficiently compute water volume 
