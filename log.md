@@ -76,103 +76,113 @@ Compared to studying theoretical concepts like the OSI reference model, I found 
 ### Day 7: May 3, 2025
 
 **Today's Progress**  
-・Solved two problems from LeetCode’s Top Interview 150.
-・Since my computer science tasks were starting to pile up, I organized and prioritized them.
+- Solved two problems from LeetCode’s Top Interview 150.
+- Since my computer science tasks were starting to pile up, I organized and prioritized them.
 
 **What I Learned?**  
-・I want to continue studying computer science every day to strengthen my foundational skills, while sharing my progress using #100DaysOfCode.
-・To start, I plan to work through each task based on how much time I actually have each day.
+- I want to continue studying computer science every day to strengthen my foundational skills, while sharing my progress using #100DaysOfCode.
+- To start, I plan to work through each task based on how much time I actually have each day.
 
 
 ### Day 8: May 4, 2025
 
 **Today's Progress**  
-・Solved two problems from LeetCode's Top Interview 150.
-・Watched the first lecture video of "Create Your Own OS from Scratch".
-・Installed XQuartz → Set up DevContainer(Docer) → Create a FAT image(disk.img) → Saved it as BOOTX64.EFI → Booted EFI using QEMU
+- Solved two problems from LeetCode's Top Interview 150.
+- Watched the first lecture video of "Create Your Own OS from Scratch".
+- Installed XQuartz → Set up DevContainer(Docer) → Create a FAT image(disk.img) → Saved it as BOOTX64.EFI → Booted EFI using QEMU
 
 **What I Learned?**  
-・Although I just folloed the commands, using a Docker image made the environment setup smooth and convenient.
-・I tried to reproduce the process of how a computer boots and starts working, but honestly, I didn't really understand what was happning.
+- Although I just folloed the commands, using a Docker image made the environment setup smooth and convenient.
+- I tried to reproduce the process of how a computer boots and starts working, but honestly, I didn't really understand what was happning.
 
 
 ### Day 9: May 5, 2025
 
 **Today's Progress**  
-・Solved two problems from LeetCode's Top Interview 150.
-・Watched the second lecture video of "Create Your Own OS from Scratch".
-・Built UEFI app using EDK II.
+- Solved two problems from LeetCode's Top Interview 150.
+- Watched the second lecture video of "Create Your Own OS from Scratch".
+- Built UEFI app using EDK II.
 
 **What I Learned?**  
-・It took time because of a "Directory not found" error
-・I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
+- It took time because of a "Directory not found" error
+- I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
 
 
 ### Day 10: May 6, 2025
 
 **Today's Progress**  
-・Solved two problems from LeetCode's Top Interview 150
-・Watched Lecture 3 of "Create Your Own OS from Scratch"
-・Created a kernel file
-・Reviewed content from Lecture 1 and 2 by re-reading the textbook and doing additional research
+- Solved two problems from LeetCode's Top Interview 150
+- Watched Lecture 3 of "Create Your Own OS from Scratch"
+- Created a kernel file
+- Reviewed content from Lecture 1 and 2 by re-reading the textbook and doing additional research
 
 **What I Learned?**  
-・I now understand how firmware processes work up to the point where a binary file is executed and "Hello, world!" is displayed on XQuarz
-・I understood the difference between displaying "Hello, world" by executing a manually written binary and by runnig a program written in C
+- I now understand how firmware processes work up to the point where a binary file is executed and "Hello, world!" is displayed on XQuarz
+- I understood the difference between displaying "Hello, world" by executing a manually written binary and by runnig a program written in C
 
 
 ### Day 11: May 7, 2025
 
 **Today's Progress**  
-・Completed the Lecture 4 assignment for the “Deep Learning Basics” course at Matsuo Lab, University of Tokyo.
-・Independently built a soccer-player face-recognition model to reinforce my understanding of the lecture content.
+- Completed the Lecture 4 assignment for the “Deep Learning Basics” course at Matsuo Lab, University of Tokyo.
+- Independently built a soccer-player face-recognition model to reinforce my understanding of the lecture content.
 
 **What I Learned?**  
-・Parameter initialization techniques (e.g. Xavier, He)
-・Normalization methods (e.g. BatchNorm, input standardization)
-・Optimization algorithms (e.g. SGD, Adam)
-・Regularization strategies (e.g. L1/L2 weight decay, Dropout)
+- Parameter initialization techniques (e.g. Xavier, He)
+- Normalization methods (e.g. BatchNorm, input standardization)
+- Optimization algorithms (e.g. SGD, Adam)
+- Regularization strategies (e.g. L1/L2 weight decay, Dropout)
 
 ### Day 12: May 8, 2025
 
 **Today's Progress**  
-・Solved three problems from LeetCode’s Top Interview 150:
-    ・Jump Game (Greedy)
-    ・Jump Game II (Greedy / BFS-style)
-    ・H-Index (Sort + Greedy)
+- Solved three problems from LeetCode’s Top Interview 150:
+    - Jump Game (Greedy)
+    - Jump Game II (Greedy / BFS-style)
+    - H-Index (Sort + Greedy)
 
 **What I Learned?**  
-・How to apply Greedy algorithms to interval-reach problems
-・A BFS-style layer-by-layer approach for minimizing jumps
-・The definition and computation of the H-Index metric
+- How to apply Greedy algorithms to interval-reach problems
+- A BFS-style layer-by-layer approach for minimizing jumps
+- The definition and computation of the H-Index metric
 
 
 ### Day 13: May 9, 2025
 
 **Today's Progress**  
-・Solved a problem from LeetCode's Top Interview 150
-・Progressed Lecture 4 of "Create Your Own OS from Scratch"
+- Solved a problem from LeetCode's Top Interview 150
+- Progressed Lecture 4 of "Create Your Own OS from Scratch"
 
 **What I Learned?**  
-・How to append and remove elements from a list in O(1) time
-・How to automate the build process useing the make command (including compilation and linking)
+- How to append and remove elements from a list in O(1) time
+- How to automate the build process useing the make command (including compilation and linking)
 
 
 ### Day 14: May 10
 
 **Today's Progress**  
-・Solved two problems from LeetCode's Top Interview 150
+- Solved two problems from LeetCode's Top Interview 150
 
 **What I Learned?**  
-・How to use cumulative product techniques and greedy strategies for solving array-based problems efficuently
+- How to use cumulative product techniques and greedy strategies for solving array-based problems efficuently
 
 
 ### Day 15: May 11
 
 **Today's Progress**  
-・Solved two problems from LeetCode's Top Interview 150
-・Progressed Lecture 5 of "Create Your Own OS from Scratch"
+- Solved two problems from LeetCode's Top Interview 150
+- Progressed Lecture 5 of "Create Your Own OS from Scratch"
 
 **What I Learned?**  
-・Learned how to calculate amount of trapped water between blocks using the two-ponter and greedy strategies
-・Understood how to update left and right maximum heights to efficiently compute water volume 
+- Learned how to calculate amount of trapped water between blocks using the two-ponter and greedy strategies
+- Understood how to update left and right maximum heights to efficiently compute water volume 
+
+
+### Day 16: May 12
+
+**Today's Progress**  
+- Solves two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced converting integers to Roman numerals
+- Learned that some values (like 4,9,40,etc.) require special subtraction-based notation (e.g., IV,IX,XL), which made the problem a bit tricky
