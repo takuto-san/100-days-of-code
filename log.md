@@ -199,7 +199,16 @@
 
 **What I Learned?**  
 - Practiced solving problems involving string operations:
-    - 58. Length of Last Word
-    - 14. Longest Common Prefix
+    - 58 Length of Last Word
+    - 14 Longest Common Prefix
 - I’ve reached a point where I can now solve most Easy-level problems on my own.
+- Encountered build errors due to mismatched field names between kernel (C++) and UEFI (C):
+- Understood the program that detects PCI devices.
+
+
+
+
+
+
+
 
