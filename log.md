@@ -189,3 +189,17 @@
 **What I Learned?**  
 - Practiced converting integers to Roman numerals
 - Learned that some values (like 4,9,40,etc.) require special subtraction-based notation (e.g., IV,IX,XL), which made the problem a bit tricky
+
+
+### Day 17: May 13
+
+**Today's Progress**
+- Solved two problems from LeetCode's Top Interview 150
+- Progressed Lecture 6 (a, b) of "Create Your Own OS from Scratch"
+
+**What I Learned?**  
+- Practiced solving problems involving string operations:
+    - 58. Length of Last Word
+    - 14. Longest Common Prefix
+- I’ve reached a point where I can now solve most Easy-level problems on my own.
+
