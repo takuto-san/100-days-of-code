@@ -206,9 +206,19 @@
 - Understood the program that detects PCI devices.
 
 
+### Day 18: May 15
 
+**Today's Progress**
+- Solves two problems from LeetCode's Top Interview 150
+- Completed the Lecture 5 assingnment for the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
 
-
-
-
+**What I Learned?**  
+- Learned about CNN
+- Practiced solving problems involving string operation:
+    - 151 Reverse Words in a String（Two Pointers, List/Stack Usage）
+- I was on the right track by scanning from the end and extracting words, but the code became unnecessarily verbose.
+- Realized it's important to first translate the essential logic into code before trying to handle edge cases
+- For example, in this case, the first thing to do is trim the trailing spaces and find the index of the last character
+, so I should focus on implementing that part first
+- Learned how to implement CNN
 
