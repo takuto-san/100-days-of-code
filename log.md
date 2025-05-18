@@ -222,3 +222,13 @@
 , so I should focus on implementing that part first
 - Learned how to implement CNN
 
+
+### Day 19: May 16
+
+**Today's Progress**
+- Solves two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving problems involving string operation: 
+    - 6 Zigzag Conversion
+    - 28 Find the Index of the First Occurrence in a String
