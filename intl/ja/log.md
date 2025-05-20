@@ -220,3 +220,18 @@
 - 文字列操作の問題を解いた
     - 6 Zigzag Conversion
     - 28 Find the Index of the First Occurrence in a String
+
+
+### Day 20: 2025年5月19日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- 「ゼロからのOS自作入門」の第6章（b, c）を終わらせた
+- LearnSQL.comの「SQL Practice」を4問解いた
+
+**学んだこと**  
+- 文字列操作とポインタの問題を解いた
+    - 125 Valid Palindrome
+    - 68 Text Justification
+- マウスの動きに合わせてカーソルを動かせるようになった
+- OSがPCIデバイスを検知し、レジスタにアクセスするまでの流れを学んだ

@@ -232,3 +232,26 @@
 - Practiced solving problems involving string operation: 
     - 6 Zigzag Conversion
     - 28 Find the Index of the First Occurrence in a String
+
+
+### Day 20: May 17
+
+**Today's Progress**
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 6 (b,c) of "Create Yor Own OS from Scratch"
+- Solved four problems from LearnSQL.com's "SQL Practice"
+
+**What I Learned?**  
+LeetCode
+- Practiced solving problems involving string operation and two pointer:
+    - 125 Valid Palindrome
+    - 68 Text Justification
+LearnSQL.com
+- Chapter: 1.Recap of SQL JOIN types
+  - Section: Simple JOINs recap
+    4. Get to know the adaptation table
+    5. JOINs – recap
+    6. JOIN and filtering
+    7. JOINS – ambiguous columns
+- Got the cursor to move along with the mouse
+- Learned how the OS detects PCI devices and access their registers
