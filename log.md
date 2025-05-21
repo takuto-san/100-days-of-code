@@ -161,7 +161,7 @@
 - How to automate the build process useing the make command (including compilation and linking)
 
 
-### Day 14: May 10
+### Day 14: May 10, 2025
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150
@@ -234,7 +234,7 @@
     - 28 Find the Index of the First Occurrence in a String
 
 
-### Day 20: May 17
+### Day 20: May 19
 
 **Today's Progress**
 - Solved two problems from LeetCode's Top Interview 150
@@ -255,3 +255,29 @@ LearnSQL.com
     7. JOINS – ambiguous columns
 - Got the cursor to move along with the mouse
 - Learned how the OS detects PCI devices and access their registers
+
+
+### Day 21: May 20
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Solved 22 problems from LearnSQL.com's "SQL Basic"
+
+**What I Learned?**  
+- Practiced solving problems involving two pointer:
+    - 125 Valid Palindrome
+    - 68 Text Justification
+- Finished the chapter on JOIN 
+- Learned how to use JOIN methods: INNER, OUTER, RIGHT, LEFT
+
+
+### Day 22: May 21
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving problems involving two pointer:
+    - 111 Container With Most Water
+    - 15 3Sum
+- Understood when to use sorting and how to handle 3 valiables using pointer

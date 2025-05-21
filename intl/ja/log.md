@@ -235,3 +235,29 @@
     - 68 Text Justification
 - マウスの動きに合わせてカーソルを動かせるようになった
 - OSがPCIデバイスを検知し、レジスタにアクセスするまでの流れを学んだ
+
+
+### Day 21: 2025年5月20日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- LearnSQL.comの「SQL Basic」を22問解いた
+
+**学んだこと**  
+- ポインタの問題を解いた
+    - 125 Valid Palindrome
+    - 68 Text Justification
+- JOINの章を終わらせた
+- JOINメソッド（INNER, OUTER, RIGHT, LEFT）の使い方を理解した
+
+
+### Day 22: 2025年5月21日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+
+**学んだこと**  
+- ポインタの問題を解いた
+    - 111 Container With Most Water
+    - 15 3Sum
+- sortの使い所や3つ変数が必要なときのポインタの使い方を理解した
