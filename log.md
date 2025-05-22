@@ -281,3 +281,17 @@ LearnSQL.com
     - 111 Container With Most Water
     - 15 3Sum
 - Understood when to use sorting and how to handle 3 valiables using pointer
+
+
+### Day 23: May 22
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Implemented an AI model using CNN to recognize soccer players' faces
+(review of Lecture 5 from the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo)
+
+**What I Learned?**  
+- Practiced solving problems involving sliding window:
+    - 3 Longest Substring Without Repeating Characters
+    - 209 Minimum Size Subarray Sum
+- Learned how to use a set to check for the occurrence of elements

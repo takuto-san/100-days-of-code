@@ -261,3 +261,16 @@
     - 111 Container With Most Water
     - 15 3Sum
 - sortの使い所や3つ変数が必要なときのポインタの使い方を理解した
+
+
+### Day 23: 2025年5月22日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- CNNを使ってサッカー選手の顔画像認識をするAIモデルを実装した（松尾研究所第5回講義の復習）
+
+**学んだこと**  
+- sliding windowの問題を解いた
+    - 3 Longest Substring Without Repeating Characters
+    - 209 Minimum Size Subarray Sum
+- set（集合型）で出現したかどうかを確認する方法を学んだ
