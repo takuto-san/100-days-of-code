@@ -287,6 +287,7 @@ LearnSQL.com
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150
+- Solved 22 problems from LearnSQL.com's "SQL Basic"
 - Implemented an AI model using CNN to recognize soccer players' faces
 (review of Lecture 5 from the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo)
 
@@ -295,3 +296,4 @@ LearnSQL.com
     - 3 Longest Substring Without Repeating Characters
     - 209 Minimum Size Subarray Sum
 - Learned how to use a set to check for the occurrence of elements
+- Finished the chapter on 2.Selecting from one table
