@@ -297,3 +297,17 @@ LearnSQL.com
     - 209 Minimum Size Subarray Sum
 - Learned how to use a set to check for the occurrence of elements
 - Finished the chapter on 2.Selecting from one table
+
+
+### Day 24: May 23
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 7 of "Create Yor Own OS from Scratch"
+
+**What I Learned?**  
+- Practiced solving problems involving sliding window:
+    - 30 Substring with Concatenation of All Words
+    - 76 Minimum Window Substring
+- Learned how to move the mouse via interrupt handling.
+- Improved interrupt handler speed by using a FIFO instead of polling.

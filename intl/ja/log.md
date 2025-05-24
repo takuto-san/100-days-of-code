@@ -276,3 +276,17 @@
     - 209 Minimum Size Subarray Sum
 - set（集合型）で出現したかどうかを確認する方法を学んだ
 - Selectの章を終わらせた
+
+
+### Day 24: 2025年5月23日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- 「ゼロからのOS自作入門」の第7章を終わらせた
+
+**学んだこと**  
+- sliding windowの問題を解いた
+    - 30 Substring with Concatenation of All Words
+    - 76 Minimum Window Substring
+- 割り込み処理でマウスを動かす方法を学んだ
+- ポーリングの代わりにFIFOを使うことで割り込みハンドラの処理をより速くした
