@@ -311,3 +311,34 @@ LearnSQL.com
     - 76 Minimum Window Substring
 - Learned how to move the mouse via interrupt handling.
 - Improved interrupt handler speed by using a FIFO instead of polling.
+
+
+### Day 25: May 25
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving problems involving matrix:
+    - 36 Valid Sudoku
+    - 54 Spiral Matrix
+
+
+### Day 26: May 26
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 8 of "Create Yor Own OS from Scratch"
+- Solved 48 problems from LearnSQL.com's "SQL Basic"
+
+
+**What I Learned?**  
+- Practiced solving problems involving matrix:
+    - 48 Rotate Image
+    - 73 Set Matrix Zeroes
+- Learned about memory management  
+- Learned how to retrieve physical memory usage and how to allocate and free memory
+- Made progress in the following chapters of 'SQL Basic'
+    - 3.Querying more than one table (13/13)
+    - 4.Aggregation and grouping (23/23)
+    - 6.Subqueries (12/22)

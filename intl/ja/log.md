@@ -247,7 +247,8 @@
 - ポインタの問題を解いた
     - 125 Valid Palindrome
     - 68 Text Justification
-- JOINの章を終わらせた
+- 「SQL Basic」の以下の章を進めた
+    - 5.More on JOINs (22/22)
 - JOINメソッド（INNER, OUTER, RIGHT, LEFT）の使い方を理解した
 
 
@@ -275,8 +276,8 @@
     - 3 Longest Substring Without Repeating Characters
     - 209 Minimum Size Subarray Sum
 - set（集合型）で出現したかどうかを確認する方法を学んだ
-- Selectの章を終わらせた
-
+- 「SQL Basic」の以下の章を進めた
+    - 2.Selecting from one table (22/22)
 
 ### Day 24: 2025年5月23日
 
@@ -290,3 +291,35 @@
     - 76 Minimum Window Substring
 - 割り込み処理でマウスを動かす方法を学んだ
 - ポーリングの代わりにFIFOを使うことで割り込みハンドラの処理をより速くした
+
+
+### Day 25: 2025年5月25日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+
+**学んだこと**  
+- matrixの問題を解いた
+    - 36 Valid Sudoku
+    - 54 Spiral Matrix
+
+
+### Day 26: 2025年5月26日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- 「ゼロからのOS自作入門」の第8章を終わらせた
+- LearnSQL.comの「SQL Basic」を48問解いた
+
+
+**学んだこと**  
+- matrixの問題を解いた
+    - 48 Rotate Image
+    - 73 Set Matrix Zeroes
+- メモリ管理について学んだ
+- 物理メモリの使用状況を取得し、メモリの割り当てと解放をする方法を学んだ
+- 「SQL Basic」の以下の章を進めた
+    - 3.Querying more than one table (13/13)
+    - 4.Aggregation and grouping (23/23)
+    - 6.Subqueries (12/22)
+
