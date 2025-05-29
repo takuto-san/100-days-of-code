@@ -323,3 +323,39 @@
     - 4.Aggregation and grouping (23/23)
     - 6.Subqueries (12/22)
 
+
+### Day 27: 2025年5月27日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- 「ゼロからのOS自作入門」の第11章(a,b,c,d)を進めた
+
+
+**学んだこと**  
+- matrix, hashmapの問題を解いた
+    - 289 Game of Life
+    - 383 Ransom Note
+- 複数のタイマを同時に作動させるために、LocalAPICタイマを周期動作させ割り込みを発生させた
+
+
+### Day 28: 2025年5月28日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+
+**学んだこと**  
+- hashmapの問題を解いた
+    - 205 Isomorphic Strings
+    - 290 Word Pattern
+
+
+### Day 29: 2025年5月29日
+
+**今日の進捗**  
+- LeetCodeの「Top Interview 150」を2問解いた
+- 東大松尾研究所の「深層学習 DeepLearning基礎講座 2025」の第6回講義課題を解いた
+
+**学んだこと**  
+- hashmapの問題を解いた
+    - 242 Valid Anagram
+    - 49 Group Anagrams

@@ -1,6 +1,6 @@
 # 100 Days Of Code - Learning Log
 
-### Day 1: April 27, 2025
+### Day 1: April 27
 
 **Today's Progress**  
 - I studied Unittest and Logging from the course [Python 3 Introduction + Application + Silicon Valley Coding Style Taught by an Active Silicon Valley Engineer](https://www.udemy.com/course/python-beginner/).
@@ -12,7 +12,7 @@
 [Python 3 Introduction + Application + Silicon Valley Coding Style Taught by an Active Silicon Valley Engineer](https://www.udemy.com/course/python-beginner/)
 
 
-### Day 2: April 28, 2025
+### Day 2: April 28
 
 **Today's Progress**  
 - Based on what I studied yesterday, I wrote code by myself to review and deepen my understanding. 
@@ -27,7 +27,7 @@
 [Python 3 Introduction + Application + Silicon Valley Coding Style by a Current Silicon Valley Engineer](https://www.udemy.com/course/python-beginner/)
 
 
-### Day 3: April 29, 2025
+### Day 3: April 29
 
 **Today's Progress**  
 - Today, I built the core domain models for a group payment and bill-splitting system.  
@@ -42,7 +42,7 @@
 [walicaaa-backend GitHub Commit](https://github.com/takuto-san/walicaaa-backend/commit/89feb00b888489350b104c6af4e7a2ecbd903a4d)
 
 
-### Day 4: April 30, 2025
+### Day 4: April 30
 
 **Progress**  
 - Edited the schema for payments and settlements, and added logic to calculate balances and generate settlements.  
@@ -55,7 +55,7 @@
 [walicaaa-backend GitHub commits](https://github.com/takuto-san/walicaaa-backend/commits/main/?since=2025-05-01&until=2025-05-01)
 
 
-### Day 5: May 1, 2025
+### Day 5: May 1
 
 **Today's Progress**  
 - Worked on Assignment 3 of the "Deep Learning Fundamentals 2025" course by Matsuo Lab.  
@@ -66,7 +66,7 @@
 - Used a publicly available Kaggle dataset of soccer player face images to train a model on the faces of eight players, including Messi and Ronaldo.
 
 
-### Day 6: May 2, 2025
+### Day 6: May 2
 
 **Today's Progress**  
 - I started using Cisco Packet Tracer to study networking.
@@ -76,7 +76,7 @@
 - Compared to studying theoretical concepts like the OSI reference model, I found - it more engaging and less tedious to actually build networks on the screen.Hands-on learning made it easier and more enjoyable.
 
 
-### Day 7: May 3, 2025
+### Day 7: May 3
 
 **Today's Progress**  
 - Solved two problems from LeetCode’s Top Interview 150.
@@ -87,7 +87,7 @@
 - To start, I plan to work through each task based on how much time I actually have each day.
 
 
-### Day 8: May 4, 2025
+### Day 8: May 4
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150.
@@ -99,7 +99,7 @@
 - I tried to reproduce the process of how a computer boots and starts working, but honestly, I didn't really understand what was happning.
 
 
-### Day 9: May 5, 2025
+### Day 9: May 5
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150.
@@ -111,7 +111,7 @@
 - I'm glad I was able to get "Hello, Mikan World!" to output with help from ChatGPT
 
 
-### Day 10: May 6, 2025
+### Day 10: May 6
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150
@@ -124,7 +124,7 @@
 - I understood the difference between displaying "Hello, world" by executing a manually written binary and by runnig a program written in C
 
 
-### Day 11: May 7, 2025
+### Day 11: May 7
 
 **Today's Progress**  
 - Completed the Lecture 4 assignment for the “Deep Learning Basics” course at Matsuo Lab, University of Tokyo.
@@ -136,7 +136,7 @@
 - Optimization algorithms (e.g. SGD, Adam)
 - Regularization strategies (e.g. L1/L2 weight decay, Dropout)
 
-### Day 12: May 8, 2025
+### Day 12: May 8
 
 **Today's Progress**  
 - Solved three problems from LeetCode’s Top Interview 150:
@@ -150,7 +150,7 @@
 - The definition and computation of the H-Index metric
 
 
-### Day 13: May 9, 2025
+### Day 13: May 9
 
 **Today's Progress**  
 - Solved a problem from LeetCode's Top Interview 150
@@ -161,7 +161,7 @@
 - How to automate the build process useing the make command (including compilation and linking)
 
 
-### Day 14: May 10, 2025
+### Day 14: May 10
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150
@@ -342,3 +342,40 @@ LearnSQL.com
     - 3.Querying more than one table (13/13)
     - 4.Aggregation and grouping (23/23)
     - 6.Subqueries (12/22)
+
+
+### Day 27: May 27
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 11 (a,b,c,d) of "Create Yor Own OS from Scratch"
+
+
+**What I Learned?**  
+- Practiced solving problems involving matrix and hashmap:
+    - 289 Game of Life
+    - 383 Ransom Note
+- In order to run multiple timers concurrently, I set the Local APIC timer to operate in periodic mode, causing it to generate regular interrupts
+
+ 
+### Day 28: May 28
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving problems involving hashmap:
+    - 205 Isomorphic Strings
+    - 290 Word Pattern
+
+
+### Day 29: May 29
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the Lecture 6 assingnment for the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving problems involving hashmap:
+    - 242 Valid Anagram
+    - 49 Group Anagrams
