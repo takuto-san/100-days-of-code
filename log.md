@@ -379,3 +379,17 @@ LearnSQL.com
 - Practiced solving problems involving hashmap:
     - 242 Valid Anagram
     - 49 Group Anagrams
+
+
+### Day 30: May 30
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 11 (e), 13, 14（a,b） of "Create Yor Own OS from Scratch"
+
+**What I Learned?**  
+- Practiced solving problems involving hashmap:
+    - 1 Two Sum
+    - 202 Happy Number
+- Enabled concurrent execution of tasks with multiple contexts using preemptive multitasking
+- Classified tasks into running, runnable, and waiting states with assigned priority levels
