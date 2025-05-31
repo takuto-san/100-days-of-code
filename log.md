@@ -393,3 +393,19 @@ LearnSQL.com
     - 202 Happy Number
 - Enabled concurrent execution of tasks with multiple contexts using preemptive multitasking
 - Classified tasks into running, runnable, and waiting states with assigned priority levels
+
+
+### Day 31: May 31
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 14（c,d）, 17 of "Create Yor Own OS from Scratch"
+
+**What I Learned?**  
+- Practiced solving problems involving hashmap:
+    - 219 Contains Duplicate II
+    - 128 Longest Consecutive Sequence
+- Learned abourt file systems
+- Used UEFI's Block I/O Protocol to implement the full flow:
+create a volume image → load it via an EFI bootloader → pass it to the kernel
+- Built on that to enable an ls command in the terminal
