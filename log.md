@@ -409,3 +409,18 @@ LearnSQL.com
 - Used UEFI's Block I/O Protocol to implement the full flow:
 create a volume image → load it via an EFI bootloader → pass it to the kernel
 - Built on that to enable an ls command in the terminal
+
+
+### Day 32: June 2
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 18, 19 of "Create Yor Own OS from Scratch"
+
+**What I Learned?**  
+- Practiced solving problems involving Intervals:
+    - 228 Summary Ranges
+    - 56 Merge Intervals
+- Implementeda program corresponding to the cat command by understanding the FAT structure and opening files in the terminal
+- Added an executable file to the volume image and implemented a calculator application
+- Learned about paging, which maps virtual addresses to physical adresses
