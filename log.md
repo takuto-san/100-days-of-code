@@ -424,3 +424,44 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Implementeda program corresponding to the cat command by understanding the FAT structure and opening files in the terminal
 - Added an executable file to the volume image and implemented a calculator application
 - Learned about paging, which maps virtual addresses to physical adresses
+
+### Day 33: June 3
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 20 of "Create Yor Own OS from Scratch"
+
+**What I Learned?**  
+- Practiced solving problems involving Intervals:
+    - 57 Insert Interval
+    - 452 Minimum Number of Arrows to Burst Balloons
+- Learned about system calls
+- Understood how to set privilege levels for memory access and restrict which OS functions applications can use
+
+### Day 34: June 5
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Studied Lecture 7 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving problems involving Stack:
+    - 20 Valid Parentheses
+    - 71 Simplify Path
+- Learned about RNN
+- Understood how a neural network retains context using timeseries data
+
+### Day 35: June 6
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 1,2 of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving problems involving Stack:
+    - 150 Evaluate Reverse Polish Notation
+    - 155 Min Stack
+- Reviewed how to launch BOOTX64.EFI(the executable file) using QEMU
+- Retrived the memory map using UEFI and EDKII features
+- Gained a basic understanding of pointers
+- Transcribed the lecture code to follow and understand its execution flow
