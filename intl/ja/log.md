@@ -431,11 +431,12 @@
 - RNNについて学んだ  
 - 時系列データを使ってニューラルネットワークが文脈を保持する仕組みを理解した  
 
+
 ### Day 35: 6月6日
 
 **本日の進捗**  
 - LeetCodeのTop Interview 150から2問解いた  
-- 「Create Your Own OS from Scratch」のセクション1、2を完了した（2周目）  
+- 「ゼロからの自作OS入門」のセクション1、2を完了した（2周目）  
 
 **学んだこと**  
 - スタックに関する問題を解く練習をした：  
@@ -445,3 +446,18 @@
 - UEFIおよびEDK IIの機能を使ってメモリマップを取得した  
 - ポインタについて基本的な理解を得た  
 - 講義で使用されているコードを写経し、処理の流れを追って理解した  
+
+
+### Day 36: 6月7日
+
+**Today's Progress**  
+- LeetCodeのTop Interview 150を2問解いた  
+- 「ゼロからの自作OS入門」のセクション3aを完了した（2周目） 
+-  Cisco Networking Academyの「Networking Basics」のModule1.1~1.3まで完了した
+
+**What I Learned?**  
+- StackとLinked Listの問題を解いた:
+    - 224 Basic Calculator
+    - 141 Linked List Cycle
+- UEFI のブートサービスを使ったメモリマップの取得について復習した
+- ネットワークの概要について復習した

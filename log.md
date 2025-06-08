@@ -425,6 +425,7 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Added an executable file to the volume image and implemented a calculator application
 - Learned about paging, which maps virtual addresses to physical adresses
 
+
 ### Day 33: June 3
 
 **Today's Progress**  
@@ -437,6 +438,7 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 452 Minimum Number of Arrows to Burst Balloons
 - Learned about system calls
 - Understood how to set privilege levels for memory access and restrict which OS functions applications can use
+
 
 ### Day 34: June 5
 
@@ -465,3 +467,18 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Retrived the memory map using UEFI and EDKII features
 - Gained a basic understanding of pointers
 - Transcribed the lecture code to follow and understand its execution flow
+
+
+### Day 36: June 7
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 3a of "Create Yor Own OS from Scratch"（Second round）
+- Completed sections 1.1~1.3 of the Cisco Networking Academy’s “Networking Basics” course
+
+**What I Learned?**  
+- Practiced solving problems involving Stack:
+    - 224 Basic Calculator
+    - 141 Linked List Cycle
+- Reviewed how to retrieve the memory map using UEFI Boot Services
+- Studied an overview of networking fundamentals
