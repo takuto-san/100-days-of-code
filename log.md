@@ -482,3 +482,16 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 141 Linked List Cycle
 - Reviewed how to retrieve the memory map using UEFI Boot Services
 - Studied an overview of networking fundamentals
+
+### Day 37: June 8
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 3 (b,c,d) 4 (a,b,c) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving problems involving Stack:
+    - 2 Add Two Numbers
+    - 21 Merge Two Sorted Lists
+- Reviewed how to draw pixels
+- Deepened my understanding of pointers by examining the assembly output of compiled C++ code

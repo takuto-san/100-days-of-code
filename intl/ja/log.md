@@ -450,14 +450,29 @@
 
 ### Day 36: 6月7日
 
-**Today's Progress**  
+**本日の進捗**  
 - LeetCodeのTop Interview 150を2問解いた  
 - 「ゼロからの自作OS入門」のセクション3aを完了した（2周目） 
 -  Cisco Networking Academyの「Networking Basics」のModule1.1~1.3まで完了した
 
-**What I Learned?**  
+**学んだこと**  
 - StackとLinked Listの問題を解いた:
     - 224 Basic Calculator
     - 141 Linked List Cycle
 - UEFI のブートサービスを使ったメモリマップの取得について復習した
 - ネットワークの概要について復習した
+
+
+### Day 37: 6月8日
+
+**本日の進捗**  
+- LeetCodeのTop Interview 150を2問解いた  
+- 「ゼロからの自作OS入門」のセクション3aを完了した（2周目） 
+-  Cisco Networking Academyの「Networking Basics」のModule1.1~1.3まで完了した
+
+**学んだこと**  
+- Linked Listの問題を解いた:
+    - 2 Add Two Numbers
+    - 21 Merge Two Sorted Lists
+- ピクセルを描画する方法を復習した
+- ポインタについて、C++をコンパイルした結果をアセンブリ言語で見ながら理解した
