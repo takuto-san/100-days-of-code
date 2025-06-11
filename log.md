@@ -477,21 +477,46 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Completed sections 1.1~1.3 of the Cisco Networking Academy’s “Networking Basics” course
 
 **What I Learned?**  
-- Practiced solving problems involving Stack:
+- Practiced solving problems involving Stack and Linked List:
     - 224 Basic Calculator
     - 141 Linked List Cycle
 - Reviewed how to retrieve the memory map using UEFI Boot Services
 - Studied an overview of networking fundamentals
 
-### Day 37: June 8
+### Day 37: June 9
 
 **Today's Progress**  
 - Solved two problems from LeetCode's Top Interview 150
 - Completed the section 3 (b,c,d) 4 (a,b,c) of "Create Yor Own OS from Scratch"（Second round）
 
 **What I Learned?**  
-- Practiced solving problems involving Stack:
+- Practiced solving problems involving Linked List:
     - 2 Add Two Numbers
     - 21 Merge Two Sorted Lists
 - Reviewed how to draw pixels
 - Deepened my understanding of pointers by examining the assembly output of compiled C++ code
+
+### Day 38: June 10
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 4 (d) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving problems involving Linked List:
+    - 92 Reverse Linked List II
+    - 138 Copy List with Random Pointer
+- Learned how to copy and reverse linked lists
+- Reviewed how to load an EFL-format kernel file into memory
+
+### Day 39: June 11
+
+**Today's Progress**  
+- Solved a problem from LeetCode's Top Interview 150
+- Completed sections 1.4~2.2 of the Cisco Networking Academy’s “Networking Basics” course
+
+**What I Learned?**  
+- Practiced solving problem involving Linked List:
+    - 25 Reverse Nodes in k-Group
+- Learned how to solve problems about Reverse Nodes in k-Group
+- Reviewed network components and basic communication methods (P2P and client-server systems)
