@@ -463,7 +463,7 @@
 - ネットワークの概要について復習した
 
 
-### Day 37: 6月8日
+### Day 37: 6月9日
 
 **本日の進捗**  
 - LeetCodeのTop Interview 150を2問解いた  
@@ -476,3 +476,28 @@
     - 21 Merge Two Sorted Lists
 - ピクセルを描画する方法を復習した
 - ポインタについて、C++をコンパイルした結果をアセンブリ言語で見ながら理解した
+
+### Day 38: 6月10日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 『ゼロからの自作OS入門』のセクション4(d)を完了した（2周目）
+
+**学んだこと**
+- Linked Listに関する問題を練習した:
+    - 92 Reverse Linked List II
+    - 138 Copy List with Random Pointer
+- Linked Listのコピーと反転の方法を学んだ
+- EFL形式のカーネルファイルをメモリにロードする方法を復習した
+
+### Day 39: 6月11日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から1問解いた
+- Cisco Networking Academyの「Networking Basics」コースのセクション1.4〜2.2を完了した
+
+**学んだこと**
+- Linked Listに関する問題を練習した:
+    - 25 Reverse Nodes in k-Group
+- Reverse Nodes in k-Groupの問題の解法を学んだ
+- ネットワークコンポーネントと基本的な通信方式（P2Pおよびクライアント-サーバ方式）を復習した
