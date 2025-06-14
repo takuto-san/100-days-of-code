@@ -520,3 +520,25 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 25 Reverse Nodes in k-Group
 - Learned how to solve problems about Reverse Nodes in k-Group
 - Reviewed network components and basic communication methods (P2P and client-server systems)
+
+### Day 40: June 12
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Submitted the assingment for Lecture 7 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving problem involving Linked List:
+    - 19 Remove Nth Node From End of List
+    - 82 Remove Duplicates from Sorted List II
+
+### Day 41: June 13
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Edited my Qiita article about the internship I participated last year
+
+**What I Learned?**  
+- Practiced solving problem involving Linked List:
+    - 86 Partition List
+    - 61 Rotate List
