@@ -528,7 +528,7 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Submitted the assingment for Lecture 7 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
 
 **What I Learned?**  
-- Practiced solving problem involving Linked List:
+- Practiced solving problems involving Linked List:
     - 19 Remove Nth Node From End of List
     - 82 Remove Duplicates from Sorted List II
 
@@ -539,6 +539,32 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Edited my Qiita article about the internship I participated last year
 
 **What I Learned?**  
-- Practiced solving problem involving Linked List:
+- Practiced solving problems involving Linked List:
     - 86 Partition List
     - 61 Rotate List
+
+### Day 42: June 15
+
+**Today's Progress**  
+- Solved a problem from LeetCode's Top Interview 150
+- Edited my Qiita article about the internship I participated last year
+
+**What I Learned?**  
+- Practiced solving a problem involving Linked List:
+    - 146 LRU Cache
+- Learned to solve it by mapping nodes to hash table
+
+### Day 43: June 16
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 5 of "Create Yor Own OS from Scratch"（Second round）
+- Completed module 1 of the Cisco Networking Academy’s “Exploring Networking with Cisco Packet Tracer” course
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 104 Maximum Depth of Binary Tree
+    - 100 Same Tree
+- Reviewed how to print a string to the console
+- I was looking for learning resources for networking that use Cisco Packet Tracer and found a site that looks promising.
+- I want to use either this site or Udemy to build a solid foundatin in practical networking.

@@ -501,3 +501,55 @@
     - 25 Reverse Nodes in k-Group
 - Reverse Nodes in k-Groupの問題の解法を学んだ
 - ネットワークコンポーネントと基本的な通信方式（P2Pおよびクライアント-サーバ方式）を復習した
+
+
+### Day 40: 6月12日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 東京大学 松尾研究室の「Deep Learning Basics」コースの講義7の課題を提出した
+
+**学んだこと**
+- Linked Listに関する問題を練習した:
+    - 19 Remove Nth Node From End of List
+    - 82 Remove Duplicates from Sorted List II
+
+
+### Day 41: 6月13日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 去年参加したインターンシップに関するQiitaの記事を編集した
+
+**学んだこと**
+- Linked Listに関する問題を練習した:
+    - 86 Partition List
+    - 61 Rotate List
+
+
+### Day 42: 6月15日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から1問解いた
+- 去年参加したインターンシップに関するQiitaの記事を編集した
+
+**学んだこと**
+- Linked Listに関する問題を練習した:
+    - 146 LRU Cache
+- ノードとハッシュテーブルを対応づけることで解くという方法を学んだ
+
+
+### Day 43: 6月16日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「Create Yor Own OS from Scratch」のセクション5を完了した（2周目）
+- Cisco Networking Academyの「Exploring Networking with Cisco Packet Tracer」コースのモジュール1を完了した
+
+**学んだこと**
+- Binary Tree Generalに関する問題を練習した:
+    - 104 Maximum Depth of Binary Tree
+    - 100 Same Tree
+- コンソールに文字列を出力する方法を復習した
+- Cisco Packet Tracerを使ったネットワークの学習教材を探していたところ、参考になりそうなサイトを見つけた。
+- このサイトかUdemyを使って、ネットワークの実践的な基礎を固めていきたい。
