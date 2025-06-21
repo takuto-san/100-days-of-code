@@ -568,3 +568,47 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Reviewed how to print a string to the console
 - I was looking for learning resources for networking that use Cisco Packet Tracer and found a site that looks promising.
 - I want to use either this site or Udemy to build a solid foundatin in practical networking.
+
+### Day 44: June 17
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 6 (a) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 226 Invert Binary Tree
+    - 101 Symmetric Tree
+
+### Day 45: June 19
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Submitted the assingment for Lecture 8 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 105 Construct Binary Tree from Preorder and Inorder Traversal
+    - 106 Construct Binary Tree from Inorder and Postorder Traversal
+
+### Day 46: June 20
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Progressed the section 6 (b) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 117 Populating Next Right Pointers in Each Node II
+    - 114 Flatten Binary Tree to Linked List
+
+### Day 47: June 21
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 6 (b) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 112 Path Sum
+    - 129 Sum Root to Leaf Numbers

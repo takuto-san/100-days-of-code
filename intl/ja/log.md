@@ -553,3 +553,47 @@
 - コンソールに文字列を出力する方法を復習した
 - Cisco Packet Tracerを使ったネットワークの学習教材を探していたところ、参考になりそうなサイトを見つけた。
 - このサイトかUdemyを使って、ネットワークの実践的な基礎を固めていきたい。
+
+### Day 44: 6月17日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の6章(a)を完了した（2周目）
+
+**学んだこと**
+- 二分木（一般）に関する問題を練習した:
+    - 226 Invert Binary Tree
+    - 101 Symmetric Tree
+
+### Day 45: 6月19日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 松尾研の「深層学習基礎」講座の第8回の課題を提出した
+
+**学んだこと**
+- 二分木（一般）に関する問題を練習した:
+    - 105 Construct Binary Tree from Preorder and Inorder Traversal
+    - 106 Construct Binary Tree from Inorder and Postorder Traversal
+
+### Day 46: 6月20日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の6章(b)を進めた（2周目）
+
+**学んだこと**
+- 二分木（一般）に関する問題を練習した:
+    - 117 Populating Next Right Pointers in Each Node II
+    - 114 Flatten Binary Tree to Linked List
+
+### Day 47: 6月21日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の6章(b)を完了した（2周目）
+
+**学んだこと**
+- 二分木（一般）に関する問題を練習した:
+    - 112 Path Sum
+    - 129 Sum Root to Leaf Numbers
