@@ -561,7 +561,7 @@
 - 「ゼロからのOS自作入門」の6章(a)を完了した（2周目）
 
 **学んだこと**
-- 二分木（一般）に関する問題を練習した:
+- 二分木に関する問題を解いた:
     - 226 Invert Binary Tree
     - 101 Symmetric Tree
 
@@ -572,7 +572,7 @@
 - 松尾研の「深層学習基礎」講座の第8回の課題を提出した
 
 **学んだこと**
-- 二分木（一般）に関する問題を練習した:
+- 二分木に関する問題を解いた:
     - 105 Construct Binary Tree from Preorder and Inorder Traversal
     - 106 Construct Binary Tree from Inorder and Postorder Traversal
 
@@ -583,7 +583,7 @@
 - 「ゼロからのOS自作入門」の6章(b)を進めた（2周目）
 
 **学んだこと**
-- 二分木（一般）に関する問題を練習した:
+- 二分木に関する問題を解いた:
     - 117 Populating Next Right Pointers in Each Node II
     - 114 Flatten Binary Tree to Linked List
 
@@ -594,6 +594,6 @@
 - 「ゼロからのOS自作入門」の6章(b)を完了した（2周目）
 
 **学んだこと**
-- 二分木（一般）に関する問題を練習した:
+- 二分木に関する問題を解いた:
     - 112 Path Sum
     - 129 Sum Root to Leaf Numbers
