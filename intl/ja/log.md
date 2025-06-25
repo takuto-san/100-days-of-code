@@ -597,3 +597,45 @@
 - 二分木に関する問題を解いた:
     - 112 Path Sum
     - 129 Sum Root to Leaf Numbers
+
+### Day 48: 6月22日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から1問解いた
+
+**学んだこと**
+- 二分木（一般）に関する問題を練習した:
+    - 124 Binary Tree Maximum Path Sum
+
+### Day 49: 6月23日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の6章(c)を完了した（2周目）
+- Udemyコース「The Complete Course on Cisco Packet Tracer」のセクション2を進めた
+
+**学んだこと**
+- 二分木（一般）に関する問題を練習した:
+    - 173 Binary Search Tree Iterator
+    - 222 Count Complete Tree Nodes
+- シンプルなネットワークの構築を練習した:
+    - 9 Basic Device Configurations
+
+### Day 50: 6月24日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の7章(a)を完了した（2周目）
+- Udemyコース「The Complete Course on Cisco Packet Tracer」のセクション2, 3を進めた
+
+**学んだこと**
+- 二分木と幅優先探索に関する問題を練習した:
+    - 236 Lowest Common Ancestor of a Binary Tree
+    - 199 Binary Tree Right Side View
+- シンプルなネットワーク構築、ルーティングの基礎、静的ルーティングについて練習した:
+    - 9 Basic Device Configurations
+    - 10 Cabling in Packet Tracer
+    - 11 IP & Subnetting Assigning
+    - 12 Lab with one switch and PCs
+    - 14 Introduction to routing and routers
+    - 15 Dynamic and Static routing

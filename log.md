@@ -612,3 +612,45 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Practiced solving a problem involving Binary Tree General:
     - 112 Path Sum
     - 129 Sum Root to Leaf Numbers
+
+### Day 48: June 22
+
+**Today's Progress**  
+- Solved a problem from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 124 Binary Tree Maximum Path Sum
+
+### Day 49: June 23
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 6 (c) of "Create Yor Own OS from Scratch"（Second round）
+- Made progress in Section 2 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General:
+    - 173 Binary Search Tree Iterator
+    - 222 Count Complete Tree Nodes
+- Practiced building simple networks
+    - 9 Basic Device Configurations
+
+### Day 50: June 24
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 7 (a) of "Create Yor Own OS from Scratch"（Second round）
+- Made progress in Section 2, 3 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree General and BFS:
+    - 236 Lowest Common Ancestor of a Binary Tree
+    - 199 Binary Tree Right Side View
+- Practiced building simple networks, and routing basics and static routing
+    - 9 Basic Device Configurations
+    - 10 Cabling in Packet Tracer
+    - 11 IP & Subnetting Assigning
+    - 12 Lab with one switch and PCs
+    - 14 Introduction to routing and routers
+    - 15 Dynamic and Static routing
