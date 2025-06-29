@@ -654,3 +654,40 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 12 Lab with one switch and PCs
     - 14 Introduction to routing and routers
     - 15 Dynamic and Static routing
+
+### Day 51: June 26
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Submitted the assingment for Lecture 8 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+- Made progress in Section 3 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree BFS:
+    - 637 Average of Levels in Binary Tree
+    - 102 Binary Tree Level Order Traversal
+- Practiced building simple networks, and routing basics and static routing
+    - 16 Configuring static routing
+
+### Day 52: June 27
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 7 (b) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree BFS and Binary Search Tree:
+    - 103 Binary Tree Zigzag Level Order Traversal
+    - 530 Minimum Absolute Difference in BST
+
+### Day 53: June 28
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 8 (a) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Tree BFS and Binary Search Tree:
+    - 230 Kth Smallest Element in a BST
+    - 98 Validate Binary Search Tree
+

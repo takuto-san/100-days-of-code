@@ -639,3 +639,39 @@
     - 12 Lab with one switch and PCs
     - 14 Introduction to routing and routers
     - 15 Dynamic and Static routing
+
+### Day 51: 6月26日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 松尾研の「深層学習基礎」講座の第8回課題を提出した
+- Udemyコース「The Complete Course on Cisco Packet Tracer」のセクション3を進めた
+
+**学んだこと**
+- 二分木の幅優先探索（BFS）に関する問題を練習した:
+    - 637 Average of Levels in Binary Tree
+    - 102 Binary Tree Level Order Traversal
+- シンプルなネットワーク構築、ルーティングの基礎、静的ルーティングについて練習した:
+    - 16 Configuring static routing
+
+### Day 52: 6月27日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の7章(b)を完了した（2周目）
+
+**学んだこと**
+- 二分木の幅優先探索（BFS）と二分探索木に関する問題を練習した:
+    - 103 Binary Tree Zigzag Level Order Traversal
+    - 530 Minimum Absolute Difference in BST
+
+### Day 53: 6月28日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の8章(a)を完了した（2周目）
+
+**学んだこと**
+- 二分木の幅優先探索（BFS）と二分探索木に関する問題を練習した:
+    - 230 Kth Smallest Element in a BST
+    - 98 Validate Binary Search Tree
