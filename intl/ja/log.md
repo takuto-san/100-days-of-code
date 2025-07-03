@@ -675,3 +675,46 @@
 - 二分木の幅優先探索（BFS）と二分探索木に関する問題を練習した:
     - 230 Kth Smallest Element in a BST
     - 98 Validate Binary Search Tree
+
+### Day 54: 6月30日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の8章(b)を完了した（2周目）
+
+**学んだこと**
+- グラフの一般的な問題の練習をした:
+    - 200 Number of Islands
+    - 130 Surrounded Regions
+
+### Day 55: 7月1日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の8章(c)を完了した（2周目）
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション4を進めた
+
+**学んだこと**
+- グラフの一般的な問題の練習をした:
+    - 133 Clone Graph
+    - 399 Evaluate Division
+- スタティックルーティングとRIPの設定を練習した:
+    - 18 スタティックルーティングの設定
+    - 19 RIPの設定
+
+### Day 56: 7月3日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自自作入門」の11章(d)を完了した（2周目）
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション4を進めた
+- 松尾研の「深層学習基礎」講座の第10回課題を提出した
+
+**学んだこと**
+- グラフの一般的な問題の練習をした:
+    - 207 Course Schedule
+    - 210 Course Schedule II
+- RIP、OSPF、EIGRPの設定を練習した:
+    - 20 OSPFの設定
+    - 21 EIGRPの設定
+    - 22 再配送、RIP、OSPF、EIGRP

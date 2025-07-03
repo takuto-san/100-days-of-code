@@ -691,3 +691,45 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 230 Kth Smallest Element in a BST
     - 98 Validate Binary Search Tree
 
+### Day 54: June 30
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 8 (b) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Graph General:
+    - 200 Number of Islands
+    - 130 Surrounded Regions
+
+### Day 55: July 1
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 8 (c) of "Create Yor Own OS from Scratch"（Second round）
+- Made progress in Section 4 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Graph General:
+    - 133 Clone Graph
+    - 399 Evaluate Division
+- Practiced configuring static routing and RIP
+    - 18 Configuring static routing
+    - 19 Configuring Rip
+
+### Day 56: July 3
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 11 (d) of "Create Yor Own OS from Scratch"（Second round）
+- Made progress in Section 4 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+- Submitted the assingment for Lecture 10 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving a problem involving Graph General:
+    - 207 Course Schedule
+    - 210 Course Schedule II
+- Practiced configuring RIP, OSPF and EIGRP 
+    - 20 Configuring OSPF
+    - 21 Configuring EIGRP
+    - 22 Redistribution, Rip, OSPF & EIGRP
