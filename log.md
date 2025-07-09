@@ -733,3 +733,59 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 20 Configuring OSPF
     - 21 Configuring EIGRP
     - 22 Redistribution, Rip, OSPF & EIGRP
+    23. Intro duction to VLANs
+
+Todo
+### Day 57: July 4
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 13 (a) of "Create Yor Own OS from Scratch"（Second round）
+- Made progress in Section 5 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Graph BFS:
+    - 909 Snakes and Ladders
+    - 433 Minimum Genetic Mutation
+- Practiced configuring VLANS
+    - 23 Intro duction to VLANs
+    - 24 Configuration of VLANs
+
+
+### Day 58: July 5
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 13 (b) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Graph BFS and Trie:
+    - 127 Word Ladder
+    - 208 Implement Trie (Prefix Tree)
+
+### Day 59: July 7
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 13 (c,d) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Trie:
+    - 211 Design Add and Search Words Data Structure
+    - 212 Word Search II
+
+### Day 60: July 8
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 14 (a) of "Create Yor Own OS from Scratch"（Second round）
+- Made progress in Section 5 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Backtracking:
+    - 17 Letter Combinations of a Phone Number
+    - 77 Combinations
+- Practiced configuring STP
+    - 26 Spanning Tree Protocol
+    - 27 Port Security
+    - 28 Configuration of Multi Switch network
