@@ -699,8 +699,8 @@
     - 133 Clone Graph
     - 399 Evaluate Division
 - スタティックルーティングとRIPの設定を練習した:
-    - 18 スタティックルーティングの設定
-    - 19 RIPの設定
+    - 18 Configuring static routing
+    - 19 Configuring Rip
 
 ### Day 56: 7月3日
 
@@ -715,6 +715,59 @@
     - 207 Course Schedule
     - 210 Course Schedule II
 - RIP、OSPF、EIGRPの設定を練習した:
-    - 20 OSPFの設定
-    - 21 EIGRPの設定
-    - 22 再配送、RIP、OSPF、EIGRP
+    - 20 Configuring OSPF
+    - 21 Configuring EIGRP
+    - 22 Redistribution, Rip, OSPF & EIGRP
+
+### Day 57: 7月4日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自自作入門」の13章(a)を完了した（2周目）
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション5を進めた
+
+**学んだこと**
+- グラフのBFS問題の練習をした:
+    - 909 Snakes and Ladders
+    - 433 Minimum Genetic Mutation
+- VLANの設定を練習した:
+    - 23 Intro duction to VLANs
+    - 24 Configuration of VLANs
+
+### Day 58: 7月5日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自自作入門」の13章(b)を完了した（2周目）
+
+**学んだこと**
+- グラフのBFSとトライ木の問題の練習をした:
+    - 127 Word Ladder
+    - 208 Implement Trie (Prefix Tree)
+
+### Day 59: 7月7日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自自作入門」の13章(c,d)を完了した（2周目）
+
+**学んだこと**
+- トライ木の問題の練習をした:
+    - 211 Design Add and Search Words Data Structure
+    - 212 Word Search II
+
+### Day 60: 7月8日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自自作入門」の14章(a)を完了した（2周目）
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション5を進めた
+
+**学んだこと**
+- バックトラッキングの問題の練習をした:
+    - 17 Letter Combinations of a Phone Number
+    - 77 Combinations
+- STPの設定を練習した:
+    - 26 Spanning Tree Protocol
+    - 27 Port Security
+    - 28 Configuration of Multi Switch network

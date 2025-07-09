@@ -733,9 +733,7 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 20 Configuring OSPF
     - 21 Configuring EIGRP
     - 22 Redistribution, Rip, OSPF & EIGRP
-    23. Intro duction to VLANs
 
-Todo
 ### Day 57: July 4
 
 **Today's Progress**  
