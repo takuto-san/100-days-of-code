@@ -787,3 +787,51 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 26 Spanning Tree Protocol
     - 27 Port Security
     - 28 Configuration of Multi Switch network
+
+### Day 61: July 10
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Submitted the assingment for Lecture 11 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving a problem involving Backtracking:
+    - 46 Permutations
+    - 39 Combination Sum
+
+### Day 62: July 11
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Completed the section 14 (b,c,d) of "Create Yor Own OS from Scratch"（Second round）
+
+**What I Learned?**  
+- Practiced solving a problem involving Backtracking:
+    - 52 N-Queens II
+    - 22 Generate Parentheses
+
+### Day 63: July 12
+
+**Today's Progress**  
+- Solved a problem from LeetCode's Top Interview 150
+- Made progress in Section 6 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Backtracking:
+    - 79 Word Search
+- Practiced configuring STP
+    - 30 Introduction DHCP, DNS, NAT
+    - 31 DHCP Configurations
+    - 32 DNS Configuraitons
+    - 33 NAT Configurations
+
+### Day 64: July 14
+
+**Today's Progress**  
+- Made progress in Section 6 and 7 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced configuring STP
+    - 34 DHCP on Router
+    - 36 Introduction to Network Security
+    - 37 Standard and Extended ACLs

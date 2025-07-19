@@ -484,7 +484,7 @@
 - 『ゼロからの自作OS入門』のセクション4(d)を完了した（2周目）
 
 **学んだこと**
-- Linked Listに関する問題を練習した:
+- Linked Listに関する問題を解いた:
     - 92 Reverse Linked List II
     - 138 Copy List with Random Pointer
 - Linked Listのコピーと反転の方法を学んだ
@@ -497,7 +497,7 @@
 - Cisco Networking Academyの「Networking Basics」コースのセクション1.4〜2.2を完了した
 
 **学んだこと**
-- Linked Listに関する問題を練習した:
+- Linked Listに関する問題を解いた:
     - 25 Reverse Nodes in k-Group
 - Reverse Nodes in k-Groupの問題の解法を学んだ
 - ネットワークコンポーネントと基本的な通信方式（P2Pおよびクライアント-サーバ方式）を復習した
@@ -510,7 +510,7 @@
 - 東京大学 松尾研究室の「Deep Learning Basics」コースの講義7の課題を提出した
 
 **学んだこと**
-- Linked Listに関する問題を練習した:
+- Linked Listに関する問題を解いた:
     - 19 Remove Nth Node From End of List
     - 82 Remove Duplicates from Sorted List II
 
@@ -522,7 +522,7 @@
 - 去年参加したインターンシップに関するQiitaの記事を編集した
 
 **学んだこと**
-- Linked Listに関する問題を練習した:
+- Linked Listに関する問題を解いた:
     - 86 Partition List
     - 61 Rotate List
 
@@ -534,7 +534,7 @@
 - 去年参加したインターンシップに関するQiitaの記事を編集した
 
 **学んだこと**
-- Linked Listに関する問題を練習した:
+- Linked Listに関する問題を解いた:
     - 146 LRU Cache
 - ノードとハッシュテーブルを対応づけることで解くという方法を学んだ
 
@@ -547,7 +547,7 @@
 - Cisco Networking Academyの「Exploring Networking with Cisco Packet Tracer」コースのモジュール1を完了した
 
 **学んだこと**
-- Binary Tree Generalに関する問題を練習した:
+- Binary Tree Generalに関する問題を解いた:
     - 104 Maximum Depth of Binary Tree
     - 100 Same Tree
 - コンソールに文字列を出力する方法を復習した
@@ -604,7 +604,7 @@
 - LeetCodeのTop Interview 150から1問解いた
 
 **学んだこと**
-- 二分木（一般）に関する問題を練習した:
+- 二分木（一般）に関する問題を解いた:
     - 124 Binary Tree Maximum Path Sum
 
 ### Day 49: 6月23日
@@ -615,10 +615,10 @@
 - Udemyコース「The Complete Course on Cisco Packet Tracer」のセクション2を進めた
 
 **学んだこと**
-- 二分木（一般）に関する問題を練習した:
+- 二分木（一般）に関する問題を解いた:
     - 173 Binary Search Tree Iterator
     - 222 Count Complete Tree Nodes
-- シンプルなネットワークの構築を練習した:
+- シンプルなネットワークの構築を解いた:
     - 9 Basic Device Configurations
 
 ### Day 50: 6月24日
@@ -629,7 +629,7 @@
 - Udemyコース「The Complete Course on Cisco Packet Tracer」のセクション2, 3を進めた
 
 **学んだこと**
-- 二分木と幅優先探索に関する問題を練習した:
+- 二分木と幅優先探索に関する問題を解いた:
     - 236 Lowest Common Ancestor of a Binary Tree
     - 199 Binary Tree Right Side View
 - シンプルなネットワーク構築、ルーティングの基礎、静的ルーティングについて練習した:
@@ -648,7 +648,7 @@
 - Udemyコース「The Complete Course on Cisco Packet Tracer」のセクション3を進めた
 
 **学んだこと**
-- 二分木の幅優先探索（BFS）に関する問題を練習した:
+- 二分木の幅優先探索（BFS）に関する問題を解いた:
     - 637 Average of Levels in Binary Tree
     - 102 Binary Tree Level Order Traversal
 - シンプルなネットワーク構築、ルーティングの基礎、静的ルーティングについて練習した:
@@ -661,7 +661,7 @@
 - 「ゼロからのOS自作入門」の7章(b)を完了した（2周目）
 
 **学んだこと**
-- 二分木の幅優先探索（BFS）と二分探索木に関する問題を練習した:
+- 二分木の幅優先探索（BFS）と二分探索木に関する問題を解いた:
     - 103 Binary Tree Zigzag Level Order Traversal
     - 530 Minimum Absolute Difference in BST
 
@@ -672,7 +672,7 @@
 - 「ゼロからのOS自作入門」の8章(a)を完了した（2周目）
 
 **学んだこと**
-- 二分木の幅優先探索（BFS）と二分探索木に関する問題を練習した:
+- 二分木の幅優先探索（BFS）と二分探索木に関する問題を解いた:
     - 230 Kth Smallest Element in a BST
     - 98 Validate Binary Search Tree
 
@@ -698,7 +698,7 @@
 - グラフの一般的な問題の練習をした:
     - 133 Clone Graph
     - 399 Evaluate Division
-- スタティックルーティングとRIPの設定を練習した:
+- スタティックルーティングとRIPの設定を解いた:
     - 18 Configuring static routing
     - 19 Configuring Rip
 
@@ -714,7 +714,7 @@
 - グラフの一般的な問題の練習をした:
     - 207 Course Schedule
     - 210 Course Schedule II
-- RIP、OSPF、EIGRPの設定を練習した:
+- RIP、OSPF、EIGRPの設定を解いた:
     - 20 Configuring OSPF
     - 21 Configuring EIGRP
     - 22 Redistribution, Rip, OSPF & EIGRP
@@ -727,10 +727,10 @@
 - Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション5を進めた
 
 **学んだこと**
-- グラフのBFS問題の練習をした:
+- グラフのBFS問題を解いた:
     - 909 Snakes and Ladders
     - 433 Minimum Genetic Mutation
-- VLANの設定を練習した:
+- VLANの設定を解いた:
     - 23 Intro duction to VLANs
     - 24 Configuration of VLANs
 
@@ -741,7 +741,7 @@
 - 「ゼロからのOS自自作入門」の13章(b)を完了した（2周目）
 
 **学んだこと**
-- グラフのBFSとトライ木の問題の練習をした:
+- グラフのBFS問題とTrie木の問題を解いた:
     - 127 Word Ladder
     - 208 Implement Trie (Prefix Tree)
 
@@ -752,7 +752,7 @@
 - 「ゼロからのOS自自作入門」の13章(c,d)を完了した（2周目）
 
 **学んだこと**
-- トライ木の問題の練習をした:
+- Trie木の問題を解いた:
     - 211 Design Add and Search Words Data Structure
     - 212 Word Search II
 
@@ -764,10 +764,58 @@
 - Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション5を進めた
 
 **学んだこと**
-- バックトラッキングの問題の練習をした:
+- Backtrackingの問題を解いた:
     - 17 Letter Combinations of a Phone Number
     - 77 Combinations
-- STPの設定を練習した:
+- STPの設定について学んだ:
     - 26 Spanning Tree Protocol
     - 27 Port Security
     - 28 Configuration of Multi Switch network
+
+### 61日目: 7月10日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 松尾研の「深層学習基礎」講座の第11回講義の課題を提出した
+
+**学んだこと**
+- Backtrackingの問題を解いた:
+    - 46 Permutations
+    - 39 Combination Sum
+
+### 62日目: 7月11日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 「ゼロからのOS自作入門」の14章(b,c,d)を完了した（2周目）
+
+**学んだこと**
+- Backtrackingの問題を解いた:
+    - 52 N-Queens II
+    - 22 Generate Parentheses
+
+### 63日目: 7月12日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から1問解いた
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション6を進めた
+
+**学んだこと**
+- Backtrackingの問題を解いた:
+    - 79 Word Search
+- STPの設定を解いた:
+    - 30 Introduction DHCP, DNS, NAT
+    - 31 DHCP Configurations
+    - 32 DNS Configuraitons
+    - 33 NAT Configurations
+
+### 64日目: 7月14日
+
+**本日の進捗**
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション6と7を進めた
+
+**学んだこと**
+- STPの設定について学んだ:
+    - 34 DHCP on Router
+    - 36 Introduction to Network Security
+    - 37 Standard and Extended ACLs
