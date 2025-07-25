@@ -803,7 +803,7 @@
 **学んだこと**
 - Backtrackingの問題を解いた:
     - 79 Word Search
-- STPの設定を解いた:
+- DHCP、DNS、NATの設定について学んだ:
     - 30 Introduction DHCP, DNS, NAT
     - 31 DHCP Configurations
     - 32 DNS Configuraitons
@@ -815,7 +815,106 @@
 - Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション6と7を進めた
 
 **学んだこと**
-- STPの設定について学んだ:
+- ACLの設定について学んだ:
     - 34 DHCP on Router
     - 36 Introduction to Network Security
     - 37 Standard and Extended ACLs
+
+### 65日目: 7月15日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から3問解いた
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション6を進めた
+
+**学んだこと**
+- 分割統治法と探索木の問題を解いた:
+    - 148 Sort List
+    - 108 Convert Sorted Array to Binary
+    - 427 Construct Quad Tree
+
+### 66日目: 7月17日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 松尾研の「深層学習基礎」講座の第12回講義の課題を提出した
+
+**学んだこと**
+- カダネのアルゴリズムの問題を解いた:
+    - 23 Merge k Sorted Lists
+    - 53 Maximum Subarray
+
+### 67日目: 7月18日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション7を進めた
+
+**学んだこと**
+- カダネのアルゴリズムの問題を解いた:
+    - 918 Maximum Sum Circular Subarray
+- VPNとファイアウォールの設定について学んだ:
+    - 38 ACLs on based of Src/Dst Ips
+    - 39 VPN on Cisco Router
+    - 40 Cisco ASA Firewall Lab
+    - 42 Introduction to Wireless Security Protocols
+
+### 68日目: 7月19日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション7を進めた
+
+**学んだこと**
+- 二分探索の問題を解いた:
+    - 35 Search Insert Position
+    - 74 Search a 2D Matrix
+    - 162 Find Peak Element
+
+### 69日目: 7月21日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション7を進めた
+
+**学んだこと**
+- 二分探索の問題を解いた:
+    - 33 Search in Rotated Sorted Array
+    - 34 Find First and Last Position of Element in Sorted Array
+
+### 70日目: 7月22日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- Udemy講座「The Complete Course on Cisco Packet Tracer」のセクション8を進めた
+
+**学んだこと**
+- 二分探索の問題を解いた:
+    - 33 Search in Rotated Sorted Array
+    - 34 Find First and Last Position of Element in Sorted Array
+- VPNとWi-Fiの設定について学んだ:
+    - 43 Wireless Controller, Access points Configurations
+    - 45 Common Network issues and Solutions
+    - 46 Packet tracer simulation tool
+    - 47 Network Optimization Tips
+
+### 71日目: 7月24日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+- 松尾研の「深層学習基礎」講座の第13回講義の課題を提出した
+- 松尾研の「深層学習基礎」講座の最終課題を提出した
+
+**学んだこと**
+- ヒープの問題を解いた:
+    - 215 Kth Largest Element in an Array
+    - 502 IPO
+
+### 72日目: 7月25日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- ヒープの問題を解いた:
+    - 373 Find K Pairs with Smallest Sums
+    - 295 Find Median from Data Stream

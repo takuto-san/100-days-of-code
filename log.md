@@ -835,3 +835,102 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
     - 34 DHCP on Router
     - 36 Introduction to Network Security
     - 37 Standard and Extended ACLs
+
+### Day 65: July 15
+
+**Today's Progress**  
+- Solved three problems from LeetCode's Top Interview 150
+- Made progress in Section 6 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Divide & Conquer and Search Tree:
+    - 148 Sort List
+    - 108 Convert Sorted Array to Binary 
+    - 427 Construct Quad Tree
+
+### Day 66: July 17
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Submitted the assingment for Lecture 12 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving a problem involving Kadane's Algorithm:
+    - 23 Merge k Sorted Lists
+    - 53 Maximum Subarray
+
+### Day 67: July 18
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Made progress in Section 7 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Kadane's Algorithm:
+    - 918 Maximum Sum Circular Subarray
+- Practiced configuring VPN and Firewall
+    - 38 ACLs on based of Src/Dst Ips
+    - 39 VPN on Cisco Router
+    - 40 Cisco ASA Firewall Lab
+    - 42 Introduction to Wireless Security Protocols
+
+### Day 68: July 19
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Made progress in Section 7 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Search:
+    - 35 Search Insert Position
+    - 74 Search a 2D Matrix
+    - 162 Find Peak Element
+
+### Day 69: July 21
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Made progress in Section 7 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Search:
+    - 33 Search in Rotated Sorted Array
+    - 34 Find First and Last Position of Element in Sorted Array
+
+### Day 70: July 22
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Made progress in Section 8 of the Udemy course, "The Complete Course on Cisco Packet Tracer"
+
+**What I Learned?**  
+- Practiced solving a problem involving Binary Search:
+    - 33 Search in Rotated Sorted Array
+    - 34 Find First and Last Position of Element in Sorted Array
+- Practiced configuring VPN and Wifi
+    - 43 Wireless Controller, Access points Configurations
+    - 45 Common Network issues and Solutions
+    - 46 Packet tracer simulation tool
+    - 47 Network Optimization Tips
+
+### Day 71: July 24
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+- Submitted the assingment for Lecture 13 of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+- Submitted the final assingment of the "Deep Learning Basics" course at Matsuo Lab, University of Tokyo
+
+**What I Learned?**  
+- Practiced solving a problem involving Heap:
+    - 215 Kth Largest Element in an Array
+    - 502 IPO
+
+### Day 72: July 25
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Heap:
+    - 373 Find K Pairs with Smallest Sums
+    - 295 Find Median from Data Stream
