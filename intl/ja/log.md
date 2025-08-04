@@ -918,3 +918,83 @@
 - ヒープの問題を解いた:
     - 373 Find K Pairs with Smallest Sums
     - 295 Find Median from Data Stream
+
+### 73日目: 7月26日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- ビット演算の問題を解いた:
+    - 67 Add Binary
+    - 190 Reverse Bits
+
+### 74日目: 7月27日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- ビット演算の問題を解いた:
+    - 136 Single Number
+    - 191 Number of 1 Bits
+
+### 75日目: 7月29日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- ビット演算の問題を解いた:
+    - 137 Single Number II
+    - 201 Bitwise AND of Numbers Range
+
+### 76日目: 7月30日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- 数学の問題を解いた:
+    - 9 Palindrome Number
+    - 66 Plus One
+
+### 77日目: 7月31日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- 数学の問題を解いた:
+    - 172 Factorial Trailing Zeroes
+    - 69 Sqrt(x)
+
+### 78日目: 8月1日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- 数学の問題を解いた:
+    - 50 Pow(x, n)
+    - 149 Max Points on a Line
+
+### 79日目: 8月2日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- 1次元DPの問題を解いた:
+    - 70 Climbing Stairs
+    - 198 House Robber
+
+### 80日目: 8月4日
+
+**本日の進捗**
+- LeetCodeのTop Interview 150から2問解いた
+
+**学んだこと**
+- 1次元DPの問題を解いた:
+    - 139 Word Break
+    - 322 Coin Change

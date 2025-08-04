@@ -934,3 +934,84 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Practiced solving a problem involving Heap:
     - 373 Find K Pairs with Smallest Sums
     - 295 Find Median from Data Stream
+
+### Day 73: July 26
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Bit Manipulation:
+    - 67 Add Binary
+    - 190 Reverse Bits
+
+
+### Day 74: July 27
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Bit Manipulation:
+    - 136 Single Number
+    - 191 Number of 1 Bits
+
+### Day 75: July 29
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Bit Manipulation:
+    - 137 Single Number II
+    - 201 Bitwise AND of Numbers Range
+
+### Day 76: July 30
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Math:
+    - 9 Palindrome Number
+    - 66 Plus One
+
+### Day 77: July 31
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Math:
+    - 172 Factorial Trailing Zeroes
+    - 69 Sqrt(x)
+
+### Day 78: August 1
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Math:
+    - 50 Pow(x, n)
+    - 149 Max Points on a Line
+
+### Day 79: August 2
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving 1D DP:
+    - 70 Climbing Stairs
+    - 198 House Robber
+
+### Day 80: August 4
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving 1D DP:
+    - 139 Word Break
+    - 322 Coin Change
