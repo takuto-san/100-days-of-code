@@ -1015,3 +1015,43 @@ create a volume image → load it via an EFI bootloader → pass it to the kerne
 - Practiced solving a problem involving 1D DP:
     - 139 Word Break
     - 322 Coin Change
+
+### Day 81: August 5
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving 1D DP:
+    - 300 Longest Increasing Subsequence
+    - 120 Triangle
+
+### Day 82: August 6
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Multidimensional DP:
+    - 64 Minimum Path Sum
+    - 63 Unique Paths II
+
+### Day 83: August 19
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Multidimensional DP:
+    - 5 Longest Palindromic Substring
+    - 97 Interleaving String
+
+### Day 84: August 20
+
+**Today's Progress**  
+- Solved two problems from LeetCode's Top Interview 150
+
+**What I Learned?**  
+- Practiced solving a problem involving Multidimensional DP:
+    - 72 Edit Distance
+    - 123 Best Time to Buy and Sell Stock III
